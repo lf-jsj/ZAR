@@ -1,1 +1,6 @@
 # ZAR
+#<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=1017F7&center=%E5%81%87&vCenter=%E5%81%87&repeat=%E7%9C%9F&width=435&lines=%E9%82%B9+%E5%A5%A5+%E7%91%9E" alt="Typing SVG" /></a>
+#
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=F70000&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&width=435&lines=%E4%B8%80%E7%A7%8D%E6%96%B0%E5%9E%8B%E7%94%9F%E7%89%A9;%E9%80%9A%E5%B8%B8%E5%91%88%E9%87%8F%E5%AD%90%E6%80%81" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=100&duration=1200&pause=1000&color=F70000&background=FF150C00&center=%E7%9C%9F&vCenter=%E7%9C%9F&multiline=true&repeat=%E7%9C%9F&width=3500&height=150&lines=%E6%9C%80%E6%93%85%E9%95%BF%E6%89%93%E6%96%AD%E4%BB%96%E4%BA%BA%E6%80%9D%E8%B7%AF%EF%BC%8C%E8%AF%A2%E9%97%AE%E6%97%A0%E7%94%A8%E7%9A%84%E9%97%AE%E9%A2%98%EF%BC%8C%E5%9C%A8%E8%AF%BE%E5%A0%82%E4%B8%8A%E4%BB%A5%E4%B8%80%E5%B7%B1%E4%B9%8B%E5%8A%9B%E6%8B%96%E6%85%A2%E5%85%A8%E7%8F%AD%E8%8A%82%E5%A5%8F" alt="Typing SVG" /></a>
+![0xDPJQdnB_4x](https://user-images.githubusercontent.com/114587027/230923195-50744f2b-a2d1-47a3-9a43-c7c761e094b2.jpg)
